@@ -4,6 +4,7 @@
  * main - Prints the size of many var types
  *
  * Return: Always 0 (Success)
+ *
  */
 int main(void)
 {
@@ -14,3 +15,4 @@ int main(void)
 	printf("Size of a float: %i byte(s)\n", sizeof(float));
 	return (0);
 }
+
