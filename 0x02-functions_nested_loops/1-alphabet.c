@@ -3,7 +3,6 @@
 /**
  * print_alphabet ->  prints the lowercase alphabets
  *
- * Return: Always (Success)
  */
 void print_alphabet(void)
 {
