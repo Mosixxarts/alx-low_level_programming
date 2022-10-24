@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdout>
 
 /**
  * _puts - write string followed by new line
@@ -13,5 +12,5 @@ void _puts(char *str)
 	{
 		_putchar(*str++);
 	}
-	_putchar('0');
+	_putchar('\n');
 }
