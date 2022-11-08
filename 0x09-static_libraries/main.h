@@ -1,6 +1,13 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+/**
+ * file: main.h
+ * Auth: Mosixxarts
+ * Desc: Header file containing all prototypes of all functions
+ * 	included in the file 0x09-static_libraries
+ */
+
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
